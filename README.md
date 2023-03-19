@@ -6,7 +6,11 @@ Notion: [notebook](https://naagar.notion.site/ML4Science-03db8047b2424bbdb53bbdf
 ## Presenation: 
 ![Presenation](sMLe_pOdu_hackathon.pptx.png)
 
-## About dataset:
+## About dataset: 
+
+Train: dataset_train.csv (5000 smiles with four different mol properties)
+
+Test: dataset_test.csv (1000 smiles only)
 
         Splitting data with seed 0
         5000it 
