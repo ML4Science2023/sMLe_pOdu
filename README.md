@@ -6,9 +6,33 @@ Notion: [notebook](https://naagar.notion.site/ML4Science-03db8047b2424bbdb53bbdf
 ## Presenation: 
 ![Presenation](sMLe_pOdu_hackathon.pptx.png)
 
-## About dataset
+## About dataset:
+
+        Splitting data with seed 0
+        5000it 
+        Total size = 5,000 | train size = 4,000 | val size = 500 | test size = 500
 
 ## Models
+
+### Training the model:
+
+
+`
+      arguments = [
+          '--data_path', 'dataset_train.csv',
+          '--dataset_type', 'regression',
+          '--save_dir', 'test_checkpoints_reg',
+          '--epochs', '10',
+          '--hidden_size_solvent', '100',
+          '--dropout', '0.5',
+          '--depth', '2',
+          '--hidden_size', '100',
+          '--hidden_size_solvent', '100',
+          '--save_smiles_splits'
+      ]
+`
+
+
 
 ## final code:
 
