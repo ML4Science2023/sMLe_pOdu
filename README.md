@@ -1,5 +1,5 @@
 # Team-: sMLe_pOdu 
-(s-science, ML-machine learning, O-organic, smile-imput dataset, podu- a word from Tamil language)
+(ML-machine learning, s-science, smle-fourletter (ML4Science), O-organic, smile-imput dataset, podu- a word from Tamil language)
 
 Notion: [notebook](https://naagar.notion.site/ML4Science-03db8047b2424bbdb53bbdfc4b2ff0e3)
 
