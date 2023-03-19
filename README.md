@@ -31,12 +31,19 @@ Notion: [notebook](https://naagar.notion.site/ML4Science-03db8047b2424bbdb53bbdf
           '--save_smiles_splits'
       ]
 `
-
+Total Number of params: 
 
 
 ## final code:
 
 ## Results
+
+rms plot for the 4th molecular property after trainig model for 30 epochs ![ver_01](rms_prop_4.png)
+
+
+rms plot for the 4th molecular property after trainig model for 100 epochs
+![ver_02](rms_prop_4_ver_02.png)
+
 
 ## to-do:
 
