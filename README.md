@@ -4,6 +4,7 @@
 Notion: [notebook](https://naagar.notion.site/ML4Science-03db8047b2424bbdb53bbdfc4b2ff0e3)
 
 ## Presenation: 
+![Presenation](sMLe_pOdu_hackathon.pptx.png)
 
 ## About dataset
 
