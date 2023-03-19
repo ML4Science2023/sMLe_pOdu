@@ -48,6 +48,9 @@ rms plot for the 4th molecular property after trainig model for 30 epochs ![ver_
 rms plot for the 4th molecular property after trainig model for 100 epochs
 ![ver_02](rms_prop_4_ver_02.png)
 
+### GT and Pred values
+![gtandpred](df_gt_pred.png)
+
 
 ## to-do:
 
